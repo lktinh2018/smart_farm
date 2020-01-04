@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "cjson.h": "c",
+        "wifi_manager.h": "c",
+        "mqtt.h": "c",
+        "heart_beat.h": "c"
+    }
+}
